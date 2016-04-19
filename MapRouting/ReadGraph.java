@@ -6,6 +6,13 @@ import java.util.List;
 import java.util.PriorityQueue;
 import java.util.Scanner;
 
+/*
+ * 	ASSIGNMENT: Map Routing
+ * 	AUTHOR:		Luke Tannenbaum
+ * 	DUE:		4/18/16
+ * 	CLASS:		Comp 550
+ * 
+ */
 public class ReadGraph {
 
 	private static HashMap<Integer, GraphNode> graph = new HashMap<Integer, GraphNode>();
